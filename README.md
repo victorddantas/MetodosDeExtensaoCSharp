@@ -1,13 +1,13 @@
 # Extensions Methods
 
-Os mÈtodos de extens„o posssibilitam a criaÁ„o de funcionalidades de um tipo de dado sem ter que cria um novo tipo herdado desse tipo de dado. Desta forma est· nova funcionalidade
-passa a ser tratado como um membro existente daquele tipo, assim vocÍ pode chamar este mÈtodo como um mÈtodo de inst‚ncia de um tipo j· existente.
+Os m√©todos de extens√£o posssibilitam a cria√ß√£o de funcionalidades de um tipo de dado sem ter a necessidade de se criar um novo tipo herdado desse tipo de dado. Desta forma est√° nova funcionalidade
+passa a ser tratado como um membro existente daquele tipo, assim voc√™ pode chamar este m√©todo como um m√©todo de inst√¢ncia de um tipo j√° existente.
 
-Por exemplo, podemos criar uma nova funcionalidade para o tipo int, sem a necessidade de herdar de sua respectiva classe, criando um novo mÈtodo que pode ser chamado como um mÈtodo de 
-inst‚ncia de int.
+Por exemplo, podemos criar uma nova funcionalidade para o tipo int, sem a necessidade de herdar de sua respectiva classe, criando um novo m√©todo que pode ser chamado como um m√©todo de 
+inst√¢ncia de int.
 
 Podemos fazer o mesmo com uma classe, para evitar que a mesma seja modificada.
 
-Essa implementaÁ„o possibilita a aplicaÁ„o do pricÌcpio aberto/fechado (SOLID), onde um classe est· fechada para modificaÁ„o e aberta para extens„o, ou seja, adicionamos um nova 
-funcionalidade na classe, mas mantemos como est· a j· existente.
+Essa implementa√ß√£o possibilita a aplica√ß√£o do pric√≠cpio aberto/fechado (SOLID), onde um classe est√° fechada para modifica√ß√£o e aberta para extens√£o, ou seja, adicionamos um nova 
+funcionalidade na classe, mas mantemos como est√° a j√° existente.
 
